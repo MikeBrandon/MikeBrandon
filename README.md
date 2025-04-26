@@ -1,5 +1,5 @@
 ### 🌍Welcome to my World🌍
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeBrandon&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&excludeDaysLabel=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeBrandon&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 I specialize in building fast, modern, and scalable web applications. My core expertise is in SvelteKit, Next.js, TypeScript, and Tailwind CSS, complemented by hands-on experience with Rust, Python, Go, and Solidity.
 
